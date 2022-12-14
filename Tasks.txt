@@ -1,0 +1,4 @@
+AddressTower extensions:
+- .uuu
+- .dao
+- .js
