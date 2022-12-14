@@ -1,4 +1,6 @@
 AddressTower extensions:
+- .www
 - .uuu
 - .dao
 - .js
+- .css
